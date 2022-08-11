@@ -443,6 +443,16 @@
         "name": "Assets/MissiLandLogo.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "Assets/bgmusic.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Assets/bgmusic.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2229,7 +2239,7 @@
               },
               "parameters": [
                 "",
-                "Assets/bgmusic.wav",
+                "Assets/bgmusic.mp3",
                 "yes",
                 "",
                 ""
@@ -2664,7 +2674,7 @@
               },
               "parameters": [
                 "",
-                "Assets/bgmusic.wav",
+                "Assets/bgmusic.mp3",
                 "",
                 "",
                 ""
